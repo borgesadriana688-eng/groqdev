@@ -16,3 +16,8 @@
 - Direto ao ponto, passo-a-passo numerado, comandos prontos pra copiar.
 - Se nao souber algo do APK, DECOMPILE e descubra com bash/grep em vez de chutar.
 
+
+## PLAYBOOK OBRIGATORIO
+- Antes de mexer em QUALQUER APK de Free Fire (qualquer versao), LEIA cerebro/playbook_ff.md com read_file.
+- Ele tem as 8 fases completas: reconhecer geracao, decompilar, achar enderecos, contrato do servidor, remendo de bytes vs smali+recompile, anticheats, assinatura, hospedar.
+- Erros comuns que crasham APK estao listados la (sed em dex binario, 32-bit, metadata esquecido).
