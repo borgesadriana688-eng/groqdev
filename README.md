@@ -23,6 +23,9 @@ python3 groqdev.py --apk caminho/do.apk
 - Criar servidores e testar eles sozinha
 - Lembrar pra sempre tudo que descobre (cerebro/memory.md)
 
+## Playbook universal
+tem cerebro/playbook_ff.md: guia completo pra reviver QUALQUER versao do Free Fire (8 fases + erros comuns). A IA le automaticamente antes de mexer em APK.
+
 ## Cerebro
 O arquivo cerebro/memory.md e a memoria permanente dela.
 Ja vem carregada com tudo do projeto FF2018 (endpoints, bypass de anticheat, macete do remendo de bytes).
